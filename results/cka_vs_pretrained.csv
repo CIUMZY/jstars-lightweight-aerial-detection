@@ -1,0 +1,13 @@
+﻿layer,model,cka_vs_pretrained
+2,freeze10,1.0000
+2,freeze20,1.0000
+2,full_ft,0.9477
+4,freeze10,1.0000
+4,freeze20,1.0000
+4,full_ft,0.8783
+6,freeze10,1.0000
+6,freeze20,1.0000
+6,full_ft,0.8851
+9,freeze10,0.9991
+9,freeze20,0.9991
+9,full_ft,0.6047
