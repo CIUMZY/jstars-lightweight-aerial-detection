@@ -13,7 +13,7 @@ Reproducibility package for the manuscript:
 | `configs/run_configs.csv` | Per-run configuration of all 112 training runs (model, data, epochs, seed, mixup, cutmix, freeze, batch, optimiser, learning rate, weight decay) |
 | `results/` | Official-validation results per run, 5-seed aggregate tables, per-seed matrix, paired statistics (95 % CI, Hedges' g), CKA, size-stratified accuracy, deployment and INT8 measurements |
 | `scripts/` | Training runners (YOLOv8n/v5n/v8s), staged-unfreezing trainer, KUN/CKA analysis, size-stratified evaluation, CKA, deployment benchmark, ONNX Runtime INT8 quantisation, statistics, figure generation |
-| `figures/` | All manuscript figures (vector PDF) |
+| `scripts/make_figs_*.py` | Regenerate every manuscript figure from the result tables (binary figures are not stored here) |
 
 ## Key results (official validation set)
 
