@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.pt
+*.onnx
+*.engine
+datasets/
+runs/
+runs_p0/
+.cache/
