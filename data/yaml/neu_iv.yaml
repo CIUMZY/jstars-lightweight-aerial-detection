@@ -1,0 +1,5 @@
+path: D:/Research/03_Codex/projects/yolo-paper/datasets/NEU-DET/NEU-DET-with-yolov8-main/data
+train: NEU-DET/train-iv/images
+val: NEU-DET/holdout/images
+nc: 6
+names: [crazing, inclusion, patches, pitted_surface, rolled-in_scale, scratches]

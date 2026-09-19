@@ -1,0 +1,12 @@
+path: D:/Research/03_Codex/projects/yolo-paper/datasets/AI-TOD
+train: b3235-iv/images
+val: official-val/images
+names:
+  0: airplane
+  1: bridge
+  2: storage-tank
+  3: ship
+  4: swimming-pool
+  5: vehicle
+  6: person
+  7: wind-mill
